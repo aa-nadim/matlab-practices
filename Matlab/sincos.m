@@ -1,0 +1,13 @@
+clc; close all; clear all;
+A=input('Amplitude of the signal,A=');
+t=input('Angle limit=');
+p=input('Phase=');
+w=0:.001:t;
+y=A*sin (((pi*w)/180)+((pi*p)/180));
+z=A*cos (((pi*w)/180)+((pi*p)/180));
+subplot(1,2,1);
+plot(w,y);
+grid;
+subplot(1,2,2);
+plot(w,z);
+grid;

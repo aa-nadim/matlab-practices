@@ -1,0 +1,10 @@
+clc;
+a=input('input lower limit');
+a=-a;
+s=input('input upper limit');
+c=input('shifting position');
+d=a+c;
+f=a+s-d+1;
+t=-a:1:s;
+y=[zeros(1,d),ones(1,f)];
+plot(t,y);
