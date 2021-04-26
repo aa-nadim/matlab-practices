@@ -1,0 +1,16 @@
+2. Write a program to add two signals and show the output using MATLAB.
+
+4. Write a program to show the folding property of discrete time signal and demonstrate the 
+output using MATLAB.
+
+6. Write a program to show the cross-correlation of two signals and demonstrate the output 
+using MATLAB.
+
+8. Write a program to understand the stability test of systems using MATLAB.
+ 
+
+10. Write a program for the verification of time variant or invariant system using MATLAB.
+
+12. Write a program for the verification of causality and non-causality system using 
+MATLAB.
+
