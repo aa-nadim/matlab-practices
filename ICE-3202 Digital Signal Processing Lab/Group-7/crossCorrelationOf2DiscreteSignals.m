@@ -17,7 +17,7 @@ title('2nd Signal');
 xlabel('Time Period');
 ylabel('Amplitude');
 
-y = xcorr(a,b);
+y = xcorr(a,b); % Cross-correlation
 
 subplot(3,1,3);
 stem(y);

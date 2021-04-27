@@ -19,7 +19,7 @@ title('Cosine Wave')
 xlabel('Time Period');
 ylabel('Amplitude');
 
-y = xcorr(x1,x2);
+y = xcorr(x1,x2); % Cross-correlation
 subplot(3,1,3);
 plot(y);
 title('Cross-correlation of two signals');
