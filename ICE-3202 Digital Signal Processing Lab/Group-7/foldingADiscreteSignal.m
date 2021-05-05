@@ -1,6 +1,7 @@
-% Folding of A Discrete Time Signal
+% 4. Folding of A Discrete Time Signal
 clc
 clear all
+
 t = 0:1:6
 x = [0 1 2 3 4 5 6];
 subplot(3,1,1)

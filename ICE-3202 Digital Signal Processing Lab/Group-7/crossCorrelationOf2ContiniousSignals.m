@@ -1,4 +1,4 @@
-% Cross-correlation of two Continious Signals
+% 6.  Cross-correlation of two Continious Signals
 clc
 clear all
 t = 0:0.001:0.1;

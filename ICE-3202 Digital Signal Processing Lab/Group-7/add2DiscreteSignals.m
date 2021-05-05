@@ -1,4 +1,4 @@
-% ADD two Discrete Signals
+% 2.  ADD two Discrete Signals
 clc
 clear all
 t = 0:1:6

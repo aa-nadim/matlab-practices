@@ -1,4 +1,4 @@
-% generate sinusoidal signal
+% 1. Sinusoidal Signal
 clc
 clear all
 

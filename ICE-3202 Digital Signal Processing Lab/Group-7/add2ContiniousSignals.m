@@ -1,4 +1,4 @@
-% ADD two Continuous Signals
+% 2.  ADD two Continuous Signals
 clc
 clear all
 

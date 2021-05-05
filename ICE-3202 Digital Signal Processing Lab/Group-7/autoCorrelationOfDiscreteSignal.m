@@ -1,4 +1,4 @@
-% Auto-correlation of two Discrete Signals
+% 5. Auto-correlation of two Discrete Signals
 clc
 clear all
 x = [1 2 3 3];

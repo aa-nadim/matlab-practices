@@ -1,9 +1,10 @@
-% shifting property of discrete time signal
+% 3.  shifting property of discrete time signal
 clc
 clear all
 
 n=0:4;
 x=[0 1 2 3 3];
+
 subplot(3,1,1);
 stem(n,x);
 title('Original Signal: x(n)');

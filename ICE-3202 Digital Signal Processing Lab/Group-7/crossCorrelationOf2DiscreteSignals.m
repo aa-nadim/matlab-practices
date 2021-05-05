@@ -1,4 +1,4 @@
-% Cross-correlation of two Discrete Signals
+% 6.  Cross-correlation of two Discrete Signals
 clc
 clear all
 a = [1 1 2 2];

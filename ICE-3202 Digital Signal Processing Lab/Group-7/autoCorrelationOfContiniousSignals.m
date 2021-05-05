@@ -1,4 +1,4 @@
-% Auto-correlation of two Continious Signals
+% 5.  Auto-correlation of two Continious Signals
 clc
 clear all
 t = 0:0.001:0.1;
