@@ -3,7 +3,8 @@ clc
 clear all
 
 n=0:4;
-x=[0 1 2 3 3];
+% x= [0 1 2 3 3]
+x = input('Enter value of a, ');
 
 subplot(3,1,1);
 stem(n,x);
